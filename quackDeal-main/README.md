@@ -542,17 +542,6 @@ Graceful Snowflake connection failures, Databricks mock fallback for Community E
 
 ---
 
-## 👥 Team — QuackDeal 🦆
-
-| Name | Role |
-|------|------|
-| **Tanmay** | Backend architecture, Express API routes, Snowflake schema design & queries |
-| **Abhishek** | Frontend (Dashboard, Google Auth, routing, protected routes) |
-| **Sai Bhavesh** | Frontend (Deal components, 3-step analysis wizard, analytics page) |
-| **Viraj** | AI integration, Claude prompt engineering, health scoring engine, Databricks pipeline |
-
----
-
 ## 📄 License
 
 MIT — built for Stevens QuackHacks 2026. 🦆
